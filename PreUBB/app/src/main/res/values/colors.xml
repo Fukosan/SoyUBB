@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e73be</color>
+    <color name="colorPrimaryDark">#034b9b</color>
+    <color name="colorAccent">#bb0a23</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="Matematica">#0171bb</color>
+    <color name="Lenguaje">#c6232a</color>
+    <color name="Historia">#f7921c</color>
+    <color name="Ciencias">#009045</color>
+</resources>
